@@ -1,0 +1,3 @@
+https://stackoverflow.com/questions/31769820/differences-between-git-submodule-and-subtree
+https://www.atlassian.com/blog/git/alternatives-to-git-submodule-git-subtree
+https://stackoverflow.com/questions/571232/svnexternals-equivalent-in-git/18088319#18088319
